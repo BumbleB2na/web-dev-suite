@@ -18,4 +18,5 @@ You may use this free of charge, including commercial projects, provided that yo
 * write Jasmine BDD test cases to test plugin code.  
 * experiment with latest and oldest versions of jquery to determine what is supported.  
 * seek to understand why Modernizr helps with safe css checking of min-width and min-height to see if that library can be omitted.  
+* use jsperf tests to optimize js where possible.  
 * create a non-jquery version of these plugins.  
