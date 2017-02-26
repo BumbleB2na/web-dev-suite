@@ -2,8 +2,9 @@
 // Html jQuery StretchField Plugin - v1.0 - uses JavaScript, jQuery and Modernizr
 //  - tested with and requires jQuery 1.7.1 and Modernizr 2.0.6
 //
+// Version: 1.0
 // Requirements:  jQuery (v1.7.1), Modernizr (for safe use of min-width and min-height css styles)
-//
+// Github: https://github.com/BumbleB2na/web-dev-suite
 // Author: BumbleB2na - Copyright (c) 2012 Brendan Barr
 //
 // *** You are permitted to re-use this code for your own personal or commercial use, just include this comment block ***
