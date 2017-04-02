@@ -1,6 +1,9 @@
 # Web Dev Suite
 A suite of jquery plugins for UI elements and image asset loading
 
+# New Angular version
+There is another Angular version of these plugins being built [here](https://github.com/BumbleB2na/angular-ui-plugins).
+
 # Tech notes
 * jquery 1.7.1 is the current supported version that the plugins depend on.  
 * modernizr 2.0.6+ is a dependency for some plugins for safe css checking of min-width and min-height.  
